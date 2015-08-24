@@ -1,5 +1,8 @@
 # packaged angular
 
+Modified for the Tag site redesign to support IE9 by adding this fix:
+https://github.com/angular/angular.js/issues/11091#issuecomment-87779905
+
 This repo is for distribution on `npm` and `bower`. The source for this module is in the
 [main AngularJS repo](https://github.com/angular/angular.js).
 Please file issues and pull requests against that repo.

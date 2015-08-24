@@ -2,6 +2,9 @@
  * @license AngularJS v1.4.4
  * (c) 2010-2015 Google, Inc. http://angularjs.org
  * License: MIT
+
+ Modified by Tag Creative with a fix to get IE9 working
+ more info at: https://github.com/angular/angular.js/issues/11091#issuecomment-87779905
  */
 (function(window, document, undefined) {'use strict';
 
